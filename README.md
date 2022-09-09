@@ -19,20 +19,23 @@
 
 <div align="center">
 
- <img src="https://user-images.githubusercontent.com/87238842/182443779-4e5a32d7-0acf-4ca8-9f83-07a5bf5fe154.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443784-26c002f9-d8db-4883-81f0-388c01d4a592.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443788-da8b56ca-ed67-4c62-8bcb-a3618cb55e74.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443789-d8422e88-769a-4e7e-a680-721ca0726687.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443790-4c943e25-e27b-40d6-8ad5-800f04cbd90b.png" width="150">
+<img src="https://user-images.githubusercontent.com/87238842/189396299-991d1880-a735-495c-84fb-5b4acae7bcb1.gif" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/189396329-e5a4169b-bb79-4f0e-a219-e1eac079bbe1.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/189396309-5af7dc6f-6556-492a-bf8c-911e2cbb2066.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/189396310-37b700a1-e01b-4d2d-bc42-fd55b6572c61.png" width="150">
+<img src="https://user-images.githubusercontent.com/87238842/189396314-23d7b679-b62e-478f-b762-52693d104a5a.png" width="150">
+ 
+<img src="https://user-images.githubusercontent.com/87238842/189396300-6228522f-ee55-40fc-957e-bed844e78661.png" width="150">
+<img src="https://user-images.githubusercontent.com/87238842/189396304-5c5352bd-02c1-45ba-ac06-b0060ffc122d.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/189396327-0c76966e-30dd-4bcb-9e48-4d64afb2bc37.jpeg" width="140">
 
- <img src="https://user-images.githubusercontent.com/87238842/182443797-c9656c2f-c871-4cfd-ac1d-3be979a082ff.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443800-67ea6f06-6058-46f7-8bec-8aab632fe78c.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443801-802bc1b0-4aa9-48cd-a25c-ebc798ffc522.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443802-f2f1b110-0a69-4ff3-a133-2a89ef08dd45.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443806-74930bdb-6385-45fe-a8cb-bc6a957172d3.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443808-41c42b27-03bb-45dc-a0f0-892daba8375d.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443812-ab9d2add-de35-42d9-abef-105af8295df5.png" width="150">
-  <img src="(https://user-images.githubusercontent.com/87238842/182443791-b660906c-6b09-4e29-95f3-33ad00bc2e4f.png" width="150">
+
+ 
+<img src="https://user-images.githubusercontent.com/87238842/189396324-4279e11d-c1dc-4a34-b477-bd7e4828b44a.png" width="150">
+<img src="https://user-images.githubusercontent.com/87238842/189396321-06a0db93-a7c3-4bee-9499-1ba2ef027e09.png" width="150">
+
+ <img src="https://user-images.githubusercontent.com/87238842/189396308-42a75a7d-f368-4390-9d1f-5c69cc050451.jpeg" width="140">
+
 
 
 
@@ -44,6 +47,9 @@
 ## 📖 Sobre
 
 A proposta do projeto é fazer um clone do aplicatico whatsApp, utilizando as principais ferramentas utilziadas em um aplicativos que usamos diariamente. O aplicativo possibilita a troca de mensagens, envio de imagens, criação de grupos e realizar chamadas em tempo real.
+
+O aplicativo tambem tem uma autenticação com o firebase utilizando um número, onde é enviado um sms em tempo real, levando em consideração o DDI E DDE, ou seja, um filtro de pais e codigo do estado.
+
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
 
 ---
