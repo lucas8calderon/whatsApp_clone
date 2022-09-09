@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422141453205",
+    "project_id": "whatszap-6c3fd",
+    "storage_bucket": "whatszap-6c3fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422141453205:android:bf417a2050aa47e39d0c9c",
+        "android_client_info": {
+          "package_name": "com.lucascalderon1.whatszap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422141453205-qg716qgcp3o855sodq2p5128rrk4psc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucascalderon1.whatszap",
+            "certificate_hash": "0fc08708ea30e73c8eddfcdd58d2c54d872c8ad5"
+          }
+        },
+        {
+          "client_id": "422141453205-87j6h9f2rd0fjeqsobfamrig4kcvgd1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKp0ZCQkCYXzUC3VoqjPLoDBKzQeoR6Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422141453205-87j6h9f2rd0fjeqsobfamrig4kcvgd1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

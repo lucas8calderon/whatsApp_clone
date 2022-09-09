@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menuPesquisa"
+        android:title="Pesquisar"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_pesquisar"
+        />
+
+
+    <item android:id="@+id/menuGrupo"
+        android:title="Novo grupo"
+        app:showAsAction="never"
+
+        />
+
+    <item android:id="@+id/menuTransmissão"
+        android:title="Nova transmissão"
+        app:showAsAction="never"
+
+        />
+
+
+    <item android:id="@+id/menuAparelhos"
+        android:title="Aparelhos conectados"
+        app:showAsAction="never"
+
+        />
+
+    <item android:id="@+id/menuMensagens"
+        android:title="Mensagens favoritas"
+        app:showAsAction="never"
+
+        />
+
+    <item android:id="@+id/menuEmpresas"
+        android:title="Encontrar empresas"
+        app:showAsAction="never"
+
+        />
+
+    <item android:id="@+id/menuPagamentos"
+        android:title="Pagamentos"
+        app:showAsAction="never"
+
+        />
+
+    <item android:id="@+id/menuConfiguracoes"
+        android:title="Configurações"
+        app:showAsAction="never"
+
+        />
+
+    <item android:id="@+id/menuSair"
+        android:title="Sair"
+        app:showAsAction="never" />
+
+</menu>
